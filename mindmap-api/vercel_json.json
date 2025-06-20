@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/generate-mindmap.js": {
-      "maxDuration": 30
-    }
-  }
-}
